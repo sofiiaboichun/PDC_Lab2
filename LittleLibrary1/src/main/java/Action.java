@@ -1,0 +1,6 @@
+public enum Action {
+    TAKE_BOOK_AT_HOME,
+    TAKE_BOOK_IN_READING_ROOM,
+    CHECK_BOOK_IN_LIBRARY,
+    CONFIRM_TAKE_BOOK
+}
